@@ -30,10 +30,10 @@ I've been building various web applications and working on academic projects tha
 - Responsive web design
 
 ### Featured Repositories
-- **summative-vinoir** - A full-stack web application project
-- **poseidons-notebook** - JavaScript application demonstrating modern web development practices
-- **formative-one-openlibrary** - Integration with the Open Library API
-- **mongo-test** - MongoDB database experimentation and learning
+- [**summative-vinoir**](https://github.com/corbyn-jpg/summative-vinoir) - A full-stack web application project
+- [**poseidons-notebook**](https://github.com/corbyn-jpg/poseidons-notebook) - JavaScript application demonstrating modern web development practices
+- [**formative-one-openlibrary**](https://github.com/corbyn-jpg/formative-one-openlibrary) - Integration with the Open Library API
+- [**mongo-test**](https://github.com/corbyn-jpg/mongo-test) - MongoDB database experimentation and learning
 
 ## 🌱 Currently Learning
 
