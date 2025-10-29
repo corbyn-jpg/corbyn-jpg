@@ -1,4 +1,4 @@
-# Hi, I'm Corbyn 👋
+# Hi, I'm Chloe 👋
 
 Welcome to my GitHub profile! I'm a software developer passionate about building web applications and exploring new technologies.
 
@@ -33,7 +33,6 @@ I've been building various web applications and working on academic projects tha
 - [**summative-vinoir**](https://github.com/corbyn-jpg/summative-vinoir) - A full-stack web application project
 - [**poseidons-notebook**](https://github.com/corbyn-jpg/poseidons-notebook) - JavaScript application demonstrating modern web development practices
 - [**formative-one-openlibrary**](https://github.com/corbyn-jpg/formative-one-openlibrary) - Integration with the Open Library API
-- [**mongo-test**](https://github.com/corbyn-jpg/mongo-test) - MongoDB database experimentation and learning
 
 ## 🌱 Currently Learning
 
