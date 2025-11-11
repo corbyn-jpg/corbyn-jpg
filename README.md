@@ -2,6 +2,7 @@
   
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
+![download](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
 
 ---
 
@@ -96,6 +97,7 @@ I'm passionate about creating seamless digital experiences that combine robust b
 - Software Engineering Best Practices (Testing, Documentation, Code Reviews)
 
 ---
+![download (1)](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
 
 ## Skills & Competencies
 
@@ -116,6 +118,7 @@ I'm passionate about creating seamless digital experiences that combine robust b
 ## Fun Facts
 
 - Equestrian
+  ![null-20250723-WA0015](https://github.com/user-attachments/assets/c9d7eba2-d170-4217-a1ef-2c6c5bc734b1)
 - Avid reader of fantasy and sci-fi
 - RPG and indie game enjoyer
 - Code runs on tea and determination
