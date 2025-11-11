@@ -1,9 +1,9 @@
 <div align="center">
-  
+
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
 
-![download](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
+![Profile Banner](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
 
 ---
 
@@ -16,18 +16,18 @@ I'm a developer with a focus on web development, working with modern frameworks 
 ## Tech Stack
 
 ### Languages & Frameworks
-- JavaScript (React, Node.js)
-- HTML5 & CSS3
-- MySQL & MongoDB
-- Express.js
-- RESTful APIs
+- **JavaScript** (React, Node.js)
+- **HTML5 & CSS3**
+- **MySQL & MongoDB**
+- **Express.js**
+- **RESTful APIs**
 
 ### Tools & Technologies
-- Git & GitHub
-- AWS Cloud Services
-- Figma (UI/UX Design)
-- Chart.js (Data Visualization)
-- Material-UI (React Component Library)
+- **Git & GitHub**
+- **AWS Cloud Services**
+- **Figma** (UI/UX Design)
+- **Chart.js** (Data Visualization)
+- **Material-UI** (React Component Library)
 
 ---
 
@@ -36,49 +36,53 @@ I'm a developer with a focus on web development, working with modern frameworks 
 ### Poseidon's Notebook
 **Full-Stack Marine Species Logbook**
 
-Technologies: React, Node.js, Express, MySQL, JWT Authentication
+**Technologies:** React, Node.js, Express, MySQL, JWT Authentication
 
 A deployed full-stack application for marine enthusiasts to log species sightings with secure authentication and CRUD operations. Features user registration, species database, and responsive mobile-friendly design.
 
 [View Repository](https://github.com/corbyn-jpg/poseidons-notebook) | [Live Demo](http://www.poseidonsnotebook.co.za/)
 
-<img width="596" height="358" alt="logo" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
+<img width="596" height="358" alt="Poseidon's Notebook" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
 
 ---
 
 ### Open Library Explorer
 **API-Driven Data Visualization Platform**
 
-Technologies: React, Chart.js, Axios, CSS Modules, Open Library API
+**Technologies:** React, Chart.js, Axios, CSS Modules, Open Library API
 
 Interactive data visualization dashboard that transforms Open Library API data into engaging charts and comparisons. Features trend analysis, author comparisons, and timeline exploration.
 
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
 
-<img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-9101-f755640d78b4" />
+<img width="512" height="512" alt="Open Library Explorer" src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-8501-f755640d78b4" />
 
 ---
 
 ### Vinoir E-commerce
 **Luxury Perfume E-commerce Platform**
 
-Technologies: React, MongoDB, Express, Node.js, Material-UI
+**Technologies:** React, MongoDB, Express, Node.js, Material-UI
 
 Collaborative MERN stack project featuring a luxury perfume marketplace with user authentication, product catalog, shopping cart, and responsive design.
 
 [View Repository](https://github.com/corbyn-jpg/summative-vinoir)
 
-<img width="300" height="300" alt="vinoirLogo" src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" />
+<img width="300" height="300" alt="Vinoir E-commerce" src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" />
 
 ---
 
 ## GitHub Statistics
 
+<div align="center">
+  
 ![Chloe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corbyn-jpg&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corbyn-jpg&theme=radical)
+
+</div>
 
 ---
 
@@ -92,13 +96,14 @@ I'm passionate about creating seamless digital experiences that combine robust b
 
 ## Currently Learning
 
-- Advanced React Patterns (Custom Hooks, Context API, Performance Optimization)
-- Backend Architecture (Microservices, API Design, Database Optimization)
-- Cloud Deployment (AWS Services, CI/CD Pipelines, Scalable Infrastructure)
-- Software Engineering Best Practices (Testing, Documentation, Code Reviews)
+- **Advanced React Patterns** (Custom Hooks, Context API, Performance Optimization)
+- **Backend Architecture** (Microservices, API Design, Database Optimization)
+- **Cloud Deployment** (AWS Services, CI/CD Pipelines, Scalable Infrastructure)
+- **Software Engineering Best Practices** (Testing, Documentation, Code Reviews)
 
 ---
-![download (1)](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
+
+![Learning Journey](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
 
 ## Skills & Competencies
 
@@ -116,17 +121,18 @@ I'm passionate about creating seamless digital experiences that combine robust b
 
 ---
 
-## Fun Facts
+## Personal Interests
 
-- Equestrian
-  <img src="https://github.com/user-attachments/assets/c9d7eba2-d170-4217-a1ef-2c6c5bc734b1" alt="equestrian-photo" style="display:block;margin:8px auto;width:240px;height:auto;border-radius:8px;" />
-- Avid reader of fantasy and sci-fi
-- RPG and indie game enjoyer
-- Code runs on tea and determination
+- **Equestrian Activities**
+  <img src="https://github.com/user-attachments/assets/c9d7eba2-d170-4217-a1ef-2c6c5bc734b1" alt="Equestrian" style="display:block;margin:12px auto;width:240px;height:auto;border-radius:8px;" />
+- **Fantasy and Sci-Fi Literature**
+- **RPG and Indie Gaming**
+- **Continuous Learning and Development**
 
-*"In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test."* - Adam Savage
+> "In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test." - Adam Savage
 
 ---
 
 *This profile showcases my journey as a developing software engineer, highlighting my projects, skills, and passion for creating meaningful digital solutions.*
+
 </div>
