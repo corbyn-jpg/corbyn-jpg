@@ -3,16 +3,13 @@
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
 
-<img src="https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288" alt="hero-gif" style="display:block;margin:12px auto;width:100%;max-width:720px;height:auto;" />
+![download](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
 
 ---
 
 ## About Me
 
 I'm a developer with a focus on web development, working with modern frameworks and technologies to create engaging user experiences. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
-
-<!-- Section separator GIF -->
-<img src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" alt="section-separator" style="display:block;margin:18px auto;width:100%;max-width:640px;height:48px;object-fit:cover;opacity:0.95;" />
 
 ---
 
@@ -32,9 +29,6 @@ I'm a developer with a focus on web development, working with modern frameworks 
 - Chart.js (Data Visualization)
 - Material-UI (React Component Library)
 
-<!-- Section separator GIF -->
-<img src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-9101-f755640d78b4" alt="section-separator-2" style="display:block;margin:18px auto;width:100%;max-width:640px;height:48px;object-fit:cover;opacity:0.95;" />
-
 ---
 
 ## Portfolio Projects
@@ -48,7 +42,7 @@ A deployed full-stack application for marine enthusiasts to log species sighting
 
 [View Repository](https://github.com/corbyn-jpg/poseidons-notebook) | [Live Demo](http://www.poseidonsnotebook.co.za/)
 
-<img src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" alt="poseidons-notebook-screenshot" style="display:block;margin:12px auto;width:100%;max-width:596px;height:auto;border-radius:8px;" />
+<img width="596" height="358" alt="logo" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
 
 ---
 
@@ -61,7 +55,7 @@ Interactive data visualization dashboard that transforms Open Library API data i
 
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
 
-<img src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-9101-f755640d78b4" alt="open-library-favicon" style="display:block;margin:12px auto;width:120px;height:120px;border-radius:12px;" />
+<img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-9101-f755640d78b4" />
 
 ---
 
@@ -74,10 +68,7 @@ Collaborative MERN stack project featuring a luxury perfume marketplace with use
 
 [View Repository](https://github.com/corbyn-jpg/summative-vinoir)
 
-<img src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" alt="vinoir-logo" style="display:block;margin:12px auto;width:220px;height:220px;border-radius:12px;" />
-
-<!-- Section separator GIF -->
-<img src="https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d" alt="section-separator-3" style="display:block;margin:18px auto;width:100%;max-width:640px;height:48px;object-fit:cover;opacity:0.95;" />
+<img width="300" height="300" alt="vinoirLogo" src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" />
 
 ---
 
@@ -88,9 +79,6 @@ Collaborative MERN stack project featuring a luxury perfume marketplace with use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corbyn-jpg&theme=radical)
-
-<!-- Section separator GIF -->
-<img src="https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288" alt="section-separator-4" style="display:block;margin:18px auto;width:100%;max-width:640px;height:48px;object-fit:cover;opacity:0.95;" />
 
 ---
 
@@ -110,12 +98,27 @@ I'm passionate about creating seamless digital experiences that combine robust b
 - Software Engineering Best Practices (Testing, Documentation, Code Reviews)
 
 ---
-<!-- Small decorative GIF acting as a break before Fun Facts -->
-<img src="https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d" alt="section-separator-5" style="display:block;margin:18px auto;width:100%;max-width:640px;height:48px;object-fit:cover;opacity:0.95;" />
+![download (1)](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
+
+## Skills & Competencies
+
+**Technical Skills:** Full-Stack Development, RESTful APIs, Database Design, Responsive Web Design, Version Control  
+**Soft Skills:** Problem-Solving, Team Collaboration, Project Planning, Adaptability, Attention to Detail
+
+---
+
+## Contact Information
+
+- **Email:** 241040@virtualwindow.co.za
+- **LinkedIn:** www.linkedin.com/in/chloe-robinson-25b123351
+- **GitHub:** github.com/corbyn-jpg
+- **Portfolio:** Coming Soon
+
+---
 
 ## Fun Facts
 
-- Equestrian  
+- Equestrian
   <img src="https://github.com/user-attachments/assets/c9d7eba2-d170-4217-a1ef-2c6c5bc734b1" alt="equestrian-photo" style="display:block;margin:8px auto;width:240px;height:auto;border-radius:8px;" />
 - Avid reader of fantasy and sci-fi
 - RPG and indie game enjoyer
