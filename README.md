@@ -1,76 +1,125 @@
-<h1 align="center" style="color: #2E8B57; margin-bottom: 10px;">Hi, I'm Chloe</h1>
-<p align="center" style="color: #666; font-style: italic; margin-top: 0;">Software Developer & Web Enthusiast</p>
+# Chloe Robinson
+**Software Developer & Web Enthusiast**
 
 ---
 
-## <span style="color: #C71585;">About Me</span>
+## About Me
 
-I'm a developer with a focus on web development, working with modern frameworks and technologies to create engaging user experiences. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
+I'm a passionate software developer currently completing my second year in software development, with a strong focus on modern web technologies and full-stack development. I thrive on transforming complex problems into elegant, user-friendly solutions. When I'm not coding, you'll find me immersed in a good book, exploring virtual worlds through video games, or enjoying the outdoors with my horse.
 
 ---
 
-## <span style="color: #C71585;">Tech Stack</span>
+## Tech Stack
 
-**<span style="color: #2E8B57;">Languages & Frameworks:</span>**
+### Languages & Frameworks
 - JavaScript (React, Node.js)
-- HTML & CSS
-- SQL & MongoDB
-- PHP
-
-**<span style="color: #2E8B57;">Tools & Technologies:</span>**
-- Git & GitHub
+- HTML5 & CSS3
+- MySQL & MongoDB
+- Express.js
 - RESTful APIs
-- Database Design
-- Full-Stack Development
+
+### Tools & Technologies
+- Git & GitHub
+- AWS Cloud Services
+- Figma (UI/UX Design)
+- Chart.js (Data Visualization)
+- Material-UI (React Component Library)
 
 ---
 
-## <span style="color: #C71585;">Projects & Work</span>
+## Portfolio Projects
 
-I've been building various web applications and working on academic projects that showcase my skills in:
-- Full-stack web development with React and Node.js
-- Database integration and management
-- Component-based architecture
-- API development and integration
-- Responsive web design
-- Patience
+### Poseidon's Notebook
+**Full-Stack Marine Species Logbook**
 
-### <span style="color: #2E8B57;">Featured Repositories</span>
-- [**summative-vinoir**](https://github.com/corbyn-jpg/summative-vinoir) - A full-stack web application project
-- [**poseidons-notebook**](https://github.com/corbyn-jpg/poseidons-notebook) - JavaScript application demonstrating modern web development practices
-- [**formative-one-openlibrary**](https://github.com/corbyn-jpg/formative-one-openlibrary) - Integration with the Open Library API
+Technologies: React, Node.js, Express, MySQL, JWT Authentication
+
+A deployed full-stack application for marine enthusiasts to log species sightings with secure authentication and CRUD operations. Features user registration, species database, and responsive mobile-friendly design.
+
+[View Repository](https://github.com/corbyn-jpg/poseidons-notebook) | [Live Demo](http://www.poseidonsnotebook.co.za/)
+
+![Poseidon's Notebook Mockup](https://via.placeholder.com/600x400/4F8CC9/FFFFFF?text=Poseidon's+Notebook+-+Marine+Species+Tracker)
 
 ---
 
-## <span style="color: #C71585;">Currently Learning</span>
+### Open Library Explorer
+**API-Driven Data Visualization Platform**
 
-I'm continuously expanding my knowledge in:
-- Advanced React patterns and best practices
-- Backend development with Node.js
-- Database optimization
-- Modern web development workflows
+Technologies: React, Chart.js, Axios, CSS Modules, Open Library API
 
-My goal for this year is to deploy a website without the need of youtube videos.
+Interactive data visualization dashboard that transforms Open Library API data into engaging charts and comparisons. Features trend analysis, author comparisons, and timeline exploration.
 
----
+[View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
 
-## <span style="color: #C71585;">Interests</span>
-
-- Reading books
-- Video games
-- Horses
-- CSS (the pretty side of coding)
+![Open Library Explorer Mockup](https://via.placeholder.com/600x400/8B4513/FFFFFF?text=Open+Library+Explorer+-+Data+Visualization+Dashboard)
 
 ---
 
-## <span style="color: #C71585;">GitHub Stats</span>
+### Vinoir E-commerce
+**Luxury Perfume E-commerce Platform**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corbyn-jpg&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Technologies: React, MongoDB, Express, Node.js, Material-UI
+
+Collaborative MERN stack project featuring a luxury perfume marketplace with user authentication, product catalog, shopping cart, and responsive design.
+
+[View Repository](https://github.com/corbyn-jpg/summative-vinoir)
+
+![Vinoir E-commerce Mockup](https://via.placeholder.com/600x400/6B2C91/FFFFFF?text=Vinoir+-+Luxury+Perfume+E-commerce+Site)
 
 ---
 
-<p align="center" style="color: #666; font-style: italic;">
-  <i>"In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test." - Adam Savage</i>
-</p>
+## GitHub Statistics
+
+![Chloe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corbyn-jpg&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corbyn-jpg&theme=radical)
+
+---
+
+## Career Focus
+
+**Full-Stack Development | Web Applications | User Experience Design**
+
+I'm passionate about creating seamless digital experiences that combine robust backend functionality with intuitive frontend interfaces. My current focus is on mastering the complete software development lifecycle from concept to deployment.
+
+---
+
+## Currently Learning
+
+- Advanced React Patterns (Custom Hooks, Context API, Performance Optimization)
+- Backend Architecture (Microservices, API Design, Database Optimization)
+- Cloud Deployment (AWS Services, CI/CD Pipelines, Scalable Infrastructure)
+- Software Engineering Best Practices (Testing, Documentation, Code Reviews)
+
+---
+
+## Skills & Competencies
+
+**Technical Skills:** Full-Stack Development, RESTful APIs, Database Design, Responsive Web Design, Version Control  
+**Soft Skills:** Problem-Solving, Team Collaboration, Project Planning, Adaptability, Attention to Detail
+
+---
+
+## Contact Information
+
+- **Email:** 241040@virtualwindow.co.za
+- **LinkedIn:** www.linkedin.com/in/chloe-robinson-25b123351
+- **GitHub:** github.com/corbyn-jpg
+- **Portfolio:** Coming Soon
+
+---
+
+## Fun Facts
+
+- Equestrian enthusiast and animal lover
+- Avid reader of fantasy and sci-fi literature
+- Casual gamer and world explorer
+- Code runs on tea and determination
+
+*"In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test."* - Adam Savage
+
+---
+
+*This profile showcases my journey as a developing software engineer, highlighting my projects, skills, and passion for creating meaningful digital solutions.*
