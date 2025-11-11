@@ -1,3 +1,4 @@
+<div align="center">
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
 
@@ -5,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate software developer currently completing my second year in software development, with a strong focus on modern web technologies and full-stack development. I thrive on transforming complex problems into elegant, user-friendly solutions. When I'm not coding, you'll find me immersed in a good book, exploring virtual worlds through video games, or enjoying the outdoors with my horse.
+I'm a developer with a focus on web development, working with modern frameworks and technologies to create engaging user experiences. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
 
 ---
 
@@ -38,7 +39,7 @@ A deployed full-stack application for marine enthusiasts to log species sighting
 
 [View Repository](https://github.com/corbyn-jpg/poseidons-notebook) | [Live Demo](http://www.poseidonsnotebook.co.za/)
 
-![Poseidon's Notebook Mockup](https://via.placeholder.com/600x400/4F8CC9/FFFFFF?text=Poseidon's+Notebook+-+Marine+Species+Tracker)
+<img width="596" height="358" alt="logo" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
 
 ---
 
@@ -51,7 +52,7 @@ Interactive data visualization dashboard that transforms Open Library API data i
 
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
 
-![Open Library Explorer Mockup](https://via.placeholder.com/600x400/8B4513/FFFFFF?text=Open+Library+Explorer+-+Data+Visualization+Dashboard)
+<img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-9101-f755640d78b4" />
 
 ---
 
@@ -64,7 +65,7 @@ Collaborative MERN stack project featuring a luxury perfume marketplace with use
 
 [View Repository](https://github.com/corbyn-jpg/summative-vinoir)
 
-![Vinoir E-commerce Mockup](https://via.placeholder.com/600x400/6B2C91/FFFFFF?text=Vinoir+-+Luxury+Perfume+E-commerce+Site)
+<img width="300" height="300" alt="vinoirLogo" src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" />
 
 ---
 
@@ -113,9 +114,9 @@ I'm passionate about creating seamless digital experiences that combine robust b
 
 ## Fun Facts
 
-- Equestrian enthusiast and animal lover
-- Avid reader of fantasy and sci-fi literature
-- Casual gamer and world explorer
+- Equestrian
+- Avid reader of fantasy and sci-fi
+- RPG and indie game enjoyer
 - Code runs on tea and determination
 
 *"In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test."* - Adam Savage
@@ -123,3 +124,4 @@ I'm passionate about creating seamless digital experiences that combine robust b
 ---
 
 *This profile showcases my journey as a developing software engineer, highlighting my projects, skills, and passion for creating meaningful digital solutions.*
+</div>
