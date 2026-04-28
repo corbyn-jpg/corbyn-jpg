@@ -1,4 +1,3 @@
-<div align="center">
 
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
@@ -135,4 +134,3 @@ I'm passionate about creating seamless digital experiences that combine robust b
 
 *This profile showcases my journey as a developing web designer, highlighting my projects, skills, and passion for creating meaningful digital solutions.*
 
-</div>
