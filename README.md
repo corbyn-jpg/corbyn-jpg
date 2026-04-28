@@ -79,8 +79,6 @@ Collaborative MERN stack project featuring a luxury perfume marketplace with use
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corbyn-jpg&theme=radical)
-
 </div>
 
 ---
@@ -113,7 +111,7 @@ I'm passionate about creating seamless digital experiences that combine robust b
 
 ## Contact Information
 
-- **Email:** 241040@virtualwindow.co.za
+- **Email:** corbyncrobinson@gmail.com
 - **LinkedIn:** www.linkedin.com/in/chloe-robinson-25b123351
 - **GitHub:** github.com/corbyn-jpg
 - **Portfolio:** Coming Soon
