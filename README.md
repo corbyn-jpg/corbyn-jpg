@@ -39,7 +39,7 @@ I'm a developer with a focus on web development, working with modern frameworks 
 
 A deployed full-stack application for marine enthusiasts to log species sightings with secure authentication and CRUD operations. Features user registration, species database, and responsive mobile-friendly design.
 
-[View Repository](https://github.com/corbyn-jpg/poseidons-notebook) | [Live Demo](http://www.poseidonsnotebook.co.za/)
+[View Repository](https://github.com/corbyn-jpg/poseidons-notebook)
 
 <img width="596" height="358" alt="Poseidon's Notebook" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
 
@@ -54,7 +54,7 @@ Interactive data visualization dashboard that transforms Open Library API data i
 
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
 
-<img width="512" height="512" alt="Open Library Explorer" src="https://github.com/user-attachments/assets/f615cc8c-0461-409d-8501-f755640d78b4" />
+<img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/d1651ea6-b5cc-4f0e-9044-59be9db95c46" />
 
 ---
 
