@@ -1,7 +1,7 @@
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
 
-![Profile Banner](PASTE_BANNER_IMAGE_URL_HERE)
+![Profile Banner](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
 
 ## About Me
 I'm a developer with a focus on full-stack web and desktop development, working with modern frameworks to build role-driven, real-world applications. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
@@ -37,7 +37,7 @@ I'm a developer with a focus on full-stack web and desktop development, working 
 
 ## Flagship Project: Koru
 
-![Koru](koru-banner.png)
+<img width="7188" height="4968" alt="605311267-a761ac91-3da9-476c-80b9-ffda67503267" src="https://github.com/user-attachments/assets/d8ea798b-7427-4c1e-b654-cee85e1370f0" />
 
 **Full-Stack Learning Management System — 3rd Year Client Project**
 
@@ -86,15 +86,11 @@ Technologies: React, Node.js, Express, MySQL, JWT Authentication
 A deployed full-stack application for marine enthusiasts to log species sightings with secure authentication and CRUD operations. Features user registration, species database, and responsive mobile-friendly design.
 [View Repository](https://github.com/corbyn-jpg/poseidons-notebook)
 
-![Poseidon's Notebook](PASTE_POSEIDONS_NOTEBOOK_IMAGE_URL_HERE)
-
 ### Open Library Explorer
 **API-Driven Data Visualization Platform**
 Technologies: React, Chart.js, Axios, CSS Modules, Open Library API
 Interactive data visualization dashboard that transforms Open Library API data into engaging charts and comparisons. Features trend analysis, author comparisons, and timeline exploration.
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
-
-![Open Library Explorer](PASTE_OPEN_LIBRARY_IMAGE_URL_HERE)
 
 ### Vinoir E-commerce
 **Luxury Perfume E-commerce Platform**
@@ -102,13 +98,12 @@ Technologies: React, MongoDB, Express, Node.js, Material-UI
 Collaborative MERN stack project featuring a luxury perfume marketplace with user authentication, product catalog, shopping cart, and responsive design.
 [View Repository](https://github.com/corbyn-jpg/summative-vinoir)
 
-![Vinoir E-commerce](PASTE_VINOIR_IMAGE_URL_HERE)
 
 ---
 
 ## GitHub Statistics
-![Chloe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corbyn-jpg&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corbyn-jpg&theme=radical)
 
 ---
 
@@ -123,7 +118,7 @@ I'm passionate about shipping complete, real-world software — from client requ
 - **Cloud Deployment** (CI/CD Pipelines, Scalable Infrastructure)
 - **Testing & QA at Scale** (branch coverage, integration testing, automated build checks)
 
-![Learning Journey](PASTE_LEARNING_JOURNEY_GIF_URL_HERE)
+![Learning Journey](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
 
 ---
 
