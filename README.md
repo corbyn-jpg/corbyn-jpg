@@ -1,134 +1,114 @@
-
 # Chloe Robinson
 **Software Developer & Web Enthusiast**
-
-![Profile Banner](https://github.com/user-attachments/assets/0c87cfd7-55ea-4a51-b38a-335c29124288)
-
----
-
+ 
 ## About Me
-
-I'm a developer with a focus on web development, working with modern frameworks and technologies to create engaging user experiences. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
-
+I'm a developer with a focus on full-stack web and desktop development, working with modern frameworks to build role-driven, real-world applications. My coding style includes tea, a hunched back and my cat trying to sit on my keyboard. When I'm not coding, I can be found reading a book, playing video games or riding my horse.
+ 
 ---
-
+ 
 ## Tech Stack
-
+ 
 ### Languages & Frameworks
-- **JavaScript** (React, Node.js)
+- **JavaScript / TypeScript** (React, Node.js)
+- **C# / ASP.NET Core** (.NET 10, Web API)
 - **HTML5 & CSS3**
-- **MySQL & MongoDB**
+- **PostgreSQL, MySQL & MongoDB**
+- **Entity Framework Core**
 - **Express.js**
 - **RESTful APIs**
-
 ### Tools & Technologies
-- **Git & GitHub**
+- **Git & GitHub** (branching workflows, team collaboration)
+- **Electron** (cross-platform desktop packaging)
+- **Vite**
+- **Tailwind CSS & DaisyUI**
+- **Framer Motion**
+- **Swagger / Swashbuckle**
+- **xUnit.net & Vitest** (automated testing)
 - **AWS Cloud Services**
 - **Figma** (UI/UX Design)
-- **Chart.js** (Data Visualization)
-- **Material-UI** (React Component Library)
-
+- **Docker**
 ---
-
-## Portfolio Projects
-
+ 
+## Flagship Project: Koru
+ 
+**Full-Stack Learning Management System — 3rd Year Client Project**
+ 
+Koru is a full-stack LMS built to centralise academic workflows — course management, scheduling, assessments, analytics and communication — into a single, cross-platform desktop application for Students, Teachers and Administrators. Built for a real client brief, it enforces compliance with South Africa's POPIA (Protection of Personal Information Act) by design.
+ 
+**Technologies:** React 19, TypeScript, Vite, Electron, Tailwind CSS, DaisyUI, Framer Motion, Chart.js — ASP.NET Core (C#), Entity Framework Core, PostgreSQL, BCrypt, Swagger
+ 
+**Highlights:**
+- Delivered a native cross-platform desktop app (Windows & macOS) via Electron, wrapping a React + Vite frontend
+- Designed and built a POPIA-compliant, normalised PostgreSQL schema with role-based access control across three distinct user types
+- Shipped 15 REST API controllers covering the full academic pipeline (courses, assignments, submissions, grading, feedback, timetables)
+- Wrote and maintained 216 automated tests (xUnit.net + FluentAssertions on the backend, Vitest + React Testing Library on the frontend), with 83% backend and ~80% frontend line coverage
+- Took direct client and lecturer UX feedback and shipped concrete fixes: restructured dashboards into a clear visual hierarchy, decomposed a 3,500-line monolithic component into focused modules, and extended the data model to support per-course assignment due dates
+- Collaborated as part of a team using Git branching, code review, and Discord/WhatsApp coordination to deliver a complete MVP within budget and a 12-week timeline
+[View Repository](https://github.com/corbyn-jpg/learn-online)
+ 
+---
+ 
+## Other Portfolio Projects
+ 
 ### Poseidon's Notebook
 **Full-Stack Marine Species Logbook**
-
-**Technologies:** React, Node.js, Express, MySQL, JWT Authentication
-
+Technologies: React, Node.js, Express, MySQL, JWT Authentication
 A deployed full-stack application for marine enthusiasts to log species sightings with secure authentication and CRUD operations. Features user registration, species database, and responsive mobile-friendly design.
-
 [View Repository](https://github.com/corbyn-jpg/poseidons-notebook)
-
-<img width="596" height="358" alt="Poseidon's Notebook" src="https://github.com/user-attachments/assets/45572fb3-f319-46fc-8505-8eb31e0b19da" />
-
----
-
+ 
 ### Open Library Explorer
 **API-Driven Data Visualization Platform**
-
-**Technologies:** React, Chart.js, Axios, CSS Modules, Open Library API
-
+Technologies: React, Chart.js, Axios, CSS Modules, Open Library API
 Interactive data visualization dashboard that transforms Open Library API data into engaging charts and comparisons. Features trend analysis, author comparisons, and timeline exploration.
-
 [View Repository](https://github.com/corbyn-jpg/formative-one-openlibrary)
-
-<img width="512" height="512" alt="favicon" src="https://github.com/user-attachments/assets/d1651ea6-b5cc-4f0e-9044-59be9db95c46" />
-
----
-
+ 
 ### Vinoir E-commerce
 **Luxury Perfume E-commerce Platform**
-
-**Technologies:** React, MongoDB, Express, Node.js, Material-UI
-
+Technologies: React, MongoDB, Express, Node.js, Material-UI
 Collaborative MERN stack project featuring a luxury perfume marketplace with user authentication, product catalog, shopping cart, and responsive design.
-
 [View Repository](https://github.com/corbyn-jpg/summative-vinoir)
-
-<img width="300" height="300" alt="Vinoir E-commerce" src="https://github.com/user-attachments/assets/75f64926-56dd-44f9-9385-e552d260b274" />
-
+ 
 ---
-
+ 
 ## GitHub Statistics
-
-<div align="center">
-  
 ![Chloe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corbyn-jpg&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corbyn-jpg&layout=compact&theme=radical&hide_title=true)
-
-</div>
-
+ 
 ---
-
+ 
 ## Career Focus
-
-**Full-Stack Development | Web Applications | User Experience Design**
-
-I'm passionate about creating seamless digital experiences that combine robust backend functionality with intuitive frontend interfaces. My current focus is on mastering the complete software development lifecycle from concept to deployment.
-
----
-
-## Currently Learning
-
+**Full-Stack Development | Cross-Platform Applications | User Experience Design**
+ 
+I'm passionate about shipping complete, real-world software — from client requirements and database design through to a polished, tested, deployable product. This year's focus has been on delivering a production-grade application end to end: architecting a compliant data model, building role-based systems for multiple user types, and packaging a web app as a native cross-platform desktop experience.
+ 
+### Currently Learning
 - **Advanced React Patterns** (Custom Hooks, Context API, Performance Optimization)
 - **Backend Architecture** (Microservices, API Design, Database Optimization)
-- **Cloud Deployment** (AWS Services, CI/CD Pipelines, Scalable Infrastructure)
-- **Software Engineering Best Practices** (Testing, Documentation, Code Reviews)
-
+- **Cloud Deployment** (CI/CD Pipelines, Scalable Infrastructure)
+- **Testing & QA at Scale** (branch coverage, integration testing, automated build checks)
 ---
-
-![Learning Journey](https://github.com/user-attachments/assets/de2362e3-e9ff-49e6-bcdb-37f3d41d3c2d)
-
+ 
 ## Skills & Competencies
-
-**Technical Skills:** Full-Stack Development, RESTful APIs, Database Design, Responsive Web Design, Version Control  
-**Soft Skills:** Problem-Solving, Team Collaboration, Project Planning, Adaptability, Attention to Detail
-
+ 
+**Technical Skills:** Full-Stack Development (React + ASP.NET Core), RESTful API Design, Relational & Document Database Design (PostgreSQL, MySQL, MongoDB), Automated Testing (xUnit, Vitest), Cross-Platform Desktop Development (Electron), Data Privacy & Compliance by Design (POPIA), Git Branching Workflows, Responsive UI Development
+ 
+**Soft Skills:** Client Requirement Gathering, Team Collaboration & Delegation, Incorporating User & Stakeholder Feedback, Project Planning Under Budget/Timeline Constraints, Problem-Solving, Adaptability, Attention to Detail
+ 
 ---
-
+ 
 ## Contact Information
-
-- **Email:** corbyncrobinson@gmail.com
-- **LinkedIn:** www.linkedin.com/in/chloe-robinson-25b123351
+- **Email:** [corbyncrobinson@gmail.com](mailto:corbyncrobinson@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/chloe-robinson-25b123351](https://www.linkedin.com/in/chloe-robinson-25b123351)
 - **GitHub:** github.com/corbyn-jpg
 - **Portfolio:** Coming Soon
-
 ---
-
+ 
 ## Personal Interests
-
-- **Equestrian Activities**
-  <img src="https://github.com/user-attachments/assets/c9d7eba2-d170-4217-a1ef-2c6c5bc734b1" alt="Equestrian" style="display:block;margin:12px auto;width:240px;height:auto;border-radius:8px;" />
-- **Fantasy and Sci-Fi Literature**
-- **RPG and Indie Gaming**
-- **Continuous Learning and Development**
-
-> "In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test." - Adam Savage
-
+- Equestrian Activities
+- Fantasy and Sci-Fi Literature
+- RPG and Indie Gaming
+- Continuous Learning and Development
+> "In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test." — Adam Savage
+ 
 ---
-
-*This profile showcases my journey as a developing web designer, highlighting my projects, skills, and passion for creating meaningful digital solutions.*
-
+*This profile showcases my journey as a developing full-stack engineer, highlighting my projects, skills, and passion for building meaningful, real-world software.*
