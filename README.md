@@ -41,7 +41,7 @@ I'm a developer with a focus on full-stack web and desktop development, working 
 
 **Full-Stack Learning Management System — 3rd Year Client Project**
 
-Koru is a full-stack LMS built to centralise academic workflows — course management, scheduling, assessments, analytics and communication — into a single, cross-platform desktop application for Students, Teachers and Administrators. Built for a real client brief, it enforces compliance with South Africa's POPIA (Protection of Personal Information Act) by design.
+Koru is a full-stack LMS built to centralise academic workflows, course management, scheduling, assessments, analytics and communication, into a single, cross-platform desktop application for Students, Teachers and Administrators. Built for a real client brief, it enforces compliance with South Africa's POPIA (Protection of Personal Information Act) by design.
 
 **Technologies:** React 19, TypeScript, Vite, Electron, Tailwind CSS, DaisyUI, Framer Motion, Chart.js — ASP.NET Core (C#), Entity Framework Core, PostgreSQL, BCrypt, Swagger
 
