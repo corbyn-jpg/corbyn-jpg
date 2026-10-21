@@ -151,25 +151,6 @@ Players travel to real-world arenas, race to identify the birds found there, and
 | [Open Library Explorer](https://github.com/corbyn-jpg/formative-one-openlibrary) | A dashboard that turns Open Library data into charts, trends and author comparisons | React, Chart.js, Axios, CSS Modules |
 | [Vinoir](https://github.com/corbyn-jpg/summative-vinoir) | A team-built luxury perfume shop with accounts, a catalogue and a cart | React, Node.js, Express, MongoDB, Material UI |
 
-## UX/UI case studies
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://www.behance.net/gallery/257232199/Sonata"><img src="assets/covers/sonata.webp" alt="Sonata's case study cover." width="100%"></a>
-      <b>Sonata</b><br>From research to a working app, built around one rule: no emotion words.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.behance.net/gallery/250929689/Ontora-Design-for-accessibility"><img src="assets/covers/ontora.webp" alt="Ontora's case study cover." width="100%"></a>
-      <b>Ontora</b><br>Design for accessibility.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.behance.net/gallery/250837171/Waddle-wearable-AI"><img src="assets/covers/waddle.webp" alt="Waddle's case study cover." width="100%"></a>
-      <b>Waddle</b><br>A wearable AI.
-    </td>
-  </tr>
-</table>
-
 ## Live sites
 
 <table>
