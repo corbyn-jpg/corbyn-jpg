@@ -117,7 +117,7 @@ Koru brings courses, scheduling, assessments, analytics and communication into o
 - 216 automated tests (xUnit.net and FluentAssertions on the backend, Vitest and React Testing Library on the frontend), with 83% backend and about 80% frontend line coverage
 - Acted on client and lecturer feedback: a clearer dashboard hierarchy, a 3,500-line component split into focused modules, and per-course due dates
 
-[View the repository](https://github.com/corbyn-jpg/learn-online)
+[View the repository]([https://github.com/corbyn-jpg/learn-online](https://github.com/corbyn-jpg/koru))
 
 ### Envol
 
